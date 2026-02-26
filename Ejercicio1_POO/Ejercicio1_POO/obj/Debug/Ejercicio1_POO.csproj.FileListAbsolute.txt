@@ -1,0 +1,8 @@
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\obj\Debug\Ejercicio1_POO.csproj.AssemblyReference.cache
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\obj\Debug\Ejercicio1_POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\obj\Debug\Ejercicio1_POO.csproj.CoreCompileInputs.cache
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\bin\Debug\Ejercicio1_POO.exe.config
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\bin\Debug\Ejercicio1_POO.exe
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\bin\Debug\Ejercicio1_POO.pdb
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\obj\Debug\Ejercicio1_POO.exe
+C:\Users\2000z\OneDrive\Escritorio\ExamenIIParcial\Ejercicio1_POO\Ejercicio1_POO\obj\Debug\Ejercicio1_POO.pdb
